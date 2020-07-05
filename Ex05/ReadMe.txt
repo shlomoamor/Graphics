@@ -7,7 +7,7 @@
  * */
 
 This include new design features you added:
-- We added a class called ExhaustPipe where we implemented the exhaust pipe in the locol scope
+- We added a class called ExhaustPipe where we implemented the exhaust pipe in the local scope
 - We edited the Specification class to contain the exhaust pipe measurements
 - We added a class called TreeBoundingSphere where we implemented the tree structured bounding volume hierarchy
 
