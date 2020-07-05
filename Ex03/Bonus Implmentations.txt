@@ -1,0 +1,25 @@
+/**
+ * Exercise Number : 			3
+ * Date: 				24/05/2020
+ * Name 1: 				Shlomo Amor 000803254
+ * Name 2:				Dean Meyer  000802794
+ * 
+ * */
+
+Bonus Questions Implemented:
+
+1) 	Class: Ops.java
+	Method: refract
+	Explanation: We implemented Snell's law with accordance to the following link:
+	https://graphics.stanford.edu/courses/cs148-10-summer/docs/2006--degreve--reflection_refraction.pdf
+
+2) 	Class: Dome.java
+	Method: intersect
+	Explanation: We used combination of a sphere intersected with a plain. We split into two cases
+
+3) 	Class: Scene.java
+	Method: calcColor
+	Explanation: Super sampling method. We divided each pixel cell in accordance to the antiailsing factor.
+		     If antiailsing = 1 then no super sampling.
+
+ 
