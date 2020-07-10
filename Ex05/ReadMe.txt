@@ -11,4 +11,4 @@ This include new design features we added:
 - We edited the Specification class to contain the exhaust pipe measurements
 - We added a class called TreeBoundingSphere where we implemented the tree structured bounding volume hierarchy
 
-We implemented the bonus: Implemented the tree structured bounding volumne hierarchy
+We implemented the bonus: Implemented the tree structured bounding volume hierarchy
